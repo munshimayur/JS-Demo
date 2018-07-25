@@ -315,13 +315,15 @@ public class CommonLibraries {
 	public static void dClick(WebElement element) throws InterruptedException {
 		Actions act = new Actions(driver);
 		act.sendKeys(Keys.TAB).build().perform();
-		
-		
+			
 		JavascriptExecutor js = (JavascriptExecutor)driver;
-
-	js.executeScript("var evt = document.createEvent('MouseEvents');"
+		js.executeScript("var evt = document.createEvent('MouseEvents');"
 			+ "evt.initMouseEvent('dblclick',true, true, window, 0, 0, 0, 0, 0, false, false, false,false, 0,null); arguments[0].dispatchEvent(evt);", element);
-			js.executeScript("arguments[0].value='Kirtesh';", element);
+		
+		act.sendKeys("‡ËÏÚ˘¿»Ã“Ÿ").build().perform();
+		act.sendKeys(Keys.TAB).build().perform();;
+			
+			
 	}
 	
 }

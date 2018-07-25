@@ -2,36 +2,36 @@
 <testng-results skipped="0" failed="0" ignored="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="106789" started-at="2018-07-24T13:45:37Z" finished-at="2018-07-24T13:47:24Z">
+  <suite name="Default suite" duration-ms="110186" started-at="2018-07-25T12:10:47Z" finished-at="2018-07-25T12:12:37Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="106789" started-at="2018-07-24T13:45:37Z" finished-at="2018-07-24T13:47:24Z">
+    <test name="Default test" duration-ms="110186" started-at="2018-07-25T12:10:47Z" finished-at="2018-07-25T12:12:37Z">
       <class name="pmxdPackage.LaunchPMXD">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="beforeClass" is-config="true" duration-ms="22453" started-at="2018-07-24T13:45:37Z" finished-at="2018-07-24T13:45:59Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="beforeClass" is-config="true" duration-ms="25758" started-at="2018-07-25T12:10:47Z" finished-at="2018-07-25T12:11:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="loginRegistration()[pri:1, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="loginRegistration" duration-ms="5267" started-at="2018-07-24T13:45:59Z" finished-at="2018-07-24T13:46:05Z">
+        <test-method status="PASS" signature="loginRegistration()[pri:1, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="loginRegistration" duration-ms="5234" started-at="2018-07-25T12:11:13Z" finished-at="2018-07-25T12:11:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginRegistration -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="afterMethod" is-config="true" duration-ms="1001" started-at="2018-07-24T13:46:05Z" finished-at="2018-07-24T13:46:06Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="afterMethod" is-config="true" duration-ms="1001" started-at="2018-07-25T12:11:18Z" finished-at="2018-07-25T12:11:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="pLogin()[pri:3, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="pLogin" duration-ms="20103" started-at="2018-07-24T13:46:06Z" finished-at="2018-07-24T13:46:26Z">
+        <test-method status="PASS" signature="pLogin()[pri:3, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="pLogin" duration-ms="20121" started-at="2018-07-25T12:11:19Z" finished-at="2018-07-25T12:11:39Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pLogin -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="afterMethod" is-config="true" duration-ms="1000" started-at="2018-07-24T13:46:26Z" finished-at="2018-07-24T13:46:27Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="afterMethod" is-config="true" duration-ms="1000" started-at="2018-07-25T12:11:39Z" finished-at="2018-07-25T12:11:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method status="PASS" signature="openQA()[pri:4, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="openQA" duration-ms="55900" started-at="2018-07-24T13:46:27Z" finished-at="2018-07-24T13:47:23Z">
+        <test-method status="PASS" signature="openQA()[pri:4, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="openQA" duration-ms="56011" started-at="2018-07-25T12:11:40Z" finished-at="2018-07-25T12:12:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openQA -->
-        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="afterMethod" is-config="true" duration-ms="1000" started-at="2018-07-24T13:47:23Z" finished-at="2018-07-24T13:47:24Z">
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:pmxdPackage.LaunchPMXD@4d95d2a2]" name="afterMethod" is-config="true" duration-ms="1000" started-at="2018-07-25T12:12:36Z" finished-at="2018-07-25T12:12:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
